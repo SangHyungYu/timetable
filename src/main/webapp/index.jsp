@@ -263,8 +263,8 @@
 									commandName="SubjectVO">
 									학과지정 <select name="department" id="department"
 										style="width: 17%">
-										<option value="사회복지학과">사회복지학과</option>
 										<option value="컴퓨터공학과">컴퓨터공학과</option>
+										<option value="사회복지학과">사회복지학과</option>
 									</select>&nbsp;&nbsp;|| 이수 <select name="option" id="option"
 										style="width: 17%">
 										<option value="">&nbsp;&nbsp;이 수 구 분</option>
@@ -359,7 +359,7 @@
 			</div>
 			<br> <br>
 			<footer>
-				<strong>Copyright © Oct 2018 by wonseok Song</strong>
+				<strong>Copyright © by SangHyung Yu</strong>
 			</footer>
 		</div>
 		<!-- 전체 컨텐츠 div 끝 -->

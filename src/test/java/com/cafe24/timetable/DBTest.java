@@ -7,9 +7,9 @@ import org.junit.Test;
 
 public class DBTest {
    private static final String DRIVER = "oracle.jdbc.driver.OracleDriver";
-   private static final String URL = "jdbc:oracle:thin:@localhost:1521:xe";
-   private static final String USER = "hr";
-   private static final String PWD = "hr";
+   private static final String URL = "jdbc:oracle:thin:@localhost:1521:orcl";
+   private static final String USER = "scott";
+   private static final String PWD = "tiger";
    
    
    @Test
